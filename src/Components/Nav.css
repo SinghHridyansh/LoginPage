@@ -1,0 +1,19 @@
+.nav {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h2 {
+  margin: 0;
+}
+.links {
+  display: flex;
+  gap: 40px;
+}
+.user {
+  color: rgb(227, 227, 181);
+  font-size: 18px;
+}
